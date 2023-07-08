@@ -87,6 +87,6 @@ Contributions to this repository are welcome. If you find any issues or have sug
 
 ## Acknowledgments
 
-We would like to acknowledge the efforts put into this project. The web scraping, data cleaning, analysis, and webpage creation are based on thorough research and utilization of relevant libraries and technologies.
+We would like to acknowledge the efforts put into this project. The web scraping, data cleaning, analysis, and webpage creation are based on thorough research and utilization of relevant libraries and technologies
 
 Please note that this project is a proposal and should be further evaluated and adapted based on the specific requirements and objectives of your application.
